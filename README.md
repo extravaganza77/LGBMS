@@ -1,4 +1,4 @@
-# LGBMS
+# LBGMS
 ## Location based garbage management system
 
 ## Advantages of Location based garbage management system 
